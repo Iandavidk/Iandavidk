@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Iandavidk
-- 👀 I’m interested in ...Full stack web development/Backend development or any cloud development projects.
-- 🌱 I’m currently learning ...Full stack web development.
-- 💞️ I’m looking to collaborate on ...Web development or any cloud development related projects
-- 📫 How to reach me ...Linkedin: https://www.linkedin.com/in/ian-k-ba84b5114/
+- 👀 I’m interested in ...Cybersecurity Projects.
+- 🌱 I’m currently learning ...Cybersecurity
+- 💞️ I’m looking to collaborate on ...Cybersecurity and any penetration testing project
+- 📫 How to reach me ...Twitter..@Iandavidk
 
 <!---
 Iandavidk/Iandavidk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
