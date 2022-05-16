@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iandavidk
-- 👀 I’m interested in ...Cybersecurity Projects.
-- 🌱 I’m currently learning ...Cybersecurity
-- 💞️ I’m looking to collaborate on ...Cybersecurity and any penetration testing project
+- 👀 I’m interested in ...Coding Projects.
+- 🌱 I’m currently learning ...Full-Stack Software Development.
+- 💞️ I’m looking to collaborate on ...Coding project particularly algorithmic trading.
 - 📫 How to reach me ...Twitter..@Iandavidk
 
 <!---
