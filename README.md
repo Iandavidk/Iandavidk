@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iandavidk
 - 👀 I’m interested in ...Coding Projects.
 - 🌱 I’m currently learning ...Full-Stack Software Engineering.
-- 💞️ I’m looking to collaborate on ...Coding project particularly algorithmic trading.
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Twitter..@Iandavidk
 
 <!---
