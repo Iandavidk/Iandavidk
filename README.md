@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ian Wangui
 - 👀 I’m interested in ...Data Science and Analytics
-- 🌱 I’m currently learning ...Appliead Data Science at WorldQuant University
+- 🌱 I’m currently learning ...Applied Data Science at WorldQuant University
 - 💞️ I’m looking to collaborate on ...Kaggle Projects
 - 📫 How to reach me ...Twitter..@eandavid6
 
