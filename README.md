@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Iandavidk
-- 👀 I’m interested in ...Coding Projects.
-- 🌱 I’m currently learning ...Full-Stack Software Engineering.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Twitter..@Iandavidk
+- 👋 Hi, I’m Ian Wangui
+- 👀 I’m interested in ...Data Science and Analytics
+- 🌱 I’m currently learning ...Data Science at WorldQuant University
+- 💞️ I’m looking to collaborate on ...Kaggle Projects
+- 📫 How to reach me ...Twitter..@eandavid6
 
 <!---
 Iandavidk/Iandavidk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
