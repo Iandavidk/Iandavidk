@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ian Wangui
-- 👀 I’m interested in ...Data Science and Analytics
-- 🌱 I’m currently learning ...Applied Data Science at WorldQuant University
-- 💞️ I’m looking to collaborate on ...Kaggle Projects
+- 👀 I’m interested in ...Web development.
+- 🌱 I’m currently learning ...Software engineering at ALX Africa.
+- 💞️ I’m looking to collaborate on ...Coding projects.
 - 📫 How to reach me ...Twitter..@eandavid6
 
 <!---
