@@ -1,7 +1,5 @@
 # 💫 About Me:
-👋 Welcome to my Github profile!<br><br>I'm a Data Professional with a background in computing science and data science, driven by a passion for using data to solve problems and make a positive impact on the world. I specialize in collecting, cleaning, and analyzing data, as well as creating insightful visualizations to effectively communicate findings and recommendations to stakeholders.
-
-<br>My technical skills include: exploratory data analysis (EDA), data importing and preprocessing, data wrangling and manipulation, as well as data science. I am proficient in tools and software such as PostgreSQL, MySQL, Excel, and Power BI.<br>I am constantly eager to learn and grow in my career as a data analyst.
+👋 Welcome to my Github profile!<br><br>
 
 <br>Let's connect and collaborate on exciting data-driven projects that create meaningful outcomes!<br>Feel free to explore my repositories to learn more about my work and contributions. If you have any questions or would like to discuss potential collaborations, please don't hesitate to reach out. I look forward to connecting with you!<br>
 
